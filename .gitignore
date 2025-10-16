@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Env
+.env
+.env.*
+
+# OS / Tooling
+.DS_Store
+.streamlit/
+
+# Data (可選：若你會放測試檔)
+data/
